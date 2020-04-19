@@ -5,4 +5,4 @@ You can watch the video here ➤ https://bit.ly/2xgftXC
 
 This video is beginner-friendly and I advice you to watch the entire video irrespective of your proficiency.
 
-![alt text](https://devcrux.com/wp-content/uploads/propertyapp.gif)
+![alt text](https://devcrux.com/wp-content/uploads/propertyapp.gif) 
